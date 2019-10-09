@@ -1,2 +1,2 @@
 # praticagit
-Pratica Git faculdade
+Prática Git faculdade
